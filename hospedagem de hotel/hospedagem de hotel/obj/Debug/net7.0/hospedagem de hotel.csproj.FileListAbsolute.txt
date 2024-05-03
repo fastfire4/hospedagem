@@ -1,0 +1,14 @@
+C:\Users\ricor\source\repos\hospedagem de hotel\hospedagem de hotel\bin\Debug\net7.0\hospedagem de hotel.exe
+C:\Users\ricor\source\repos\hospedagem de hotel\hospedagem de hotel\bin\Debug\net7.0\hospedagem de hotel.deps.json
+C:\Users\ricor\source\repos\hospedagem de hotel\hospedagem de hotel\bin\Debug\net7.0\hospedagem de hotel.runtimeconfig.json
+C:\Users\ricor\source\repos\hospedagem de hotel\hospedagem de hotel\bin\Debug\net7.0\hospedagem de hotel.dll
+C:\Users\ricor\source\repos\hospedagem de hotel\hospedagem de hotel\bin\Debug\net7.0\hospedagem de hotel.pdb
+C:\Users\ricor\source\repos\hospedagem de hotel\hospedagem de hotel\obj\Debug\net7.0\hospedagem de hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricor\source\repos\hospedagem de hotel\hospedagem de hotel\obj\Debug\net7.0\hospedagem de hotel.AssemblyInfoInputs.cache
+C:\Users\ricor\source\repos\hospedagem de hotel\hospedagem de hotel\obj\Debug\net7.0\hospedagem de hotel.AssemblyInfo.cs
+C:\Users\ricor\source\repos\hospedagem de hotel\hospedagem de hotel\obj\Debug\net7.0\hospedagem de hotel.csproj.CoreCompileInputs.cache
+C:\Users\ricor\source\repos\hospedagem de hotel\hospedagem de hotel\obj\Debug\net7.0\hospedagem de hotel.dll
+C:\Users\ricor\source\repos\hospedagem de hotel\hospedagem de hotel\obj\Debug\net7.0\refint\hospedagem de hotel.dll
+C:\Users\ricor\source\repos\hospedagem de hotel\hospedagem de hotel\obj\Debug\net7.0\hospedagem de hotel.pdb
+C:\Users\ricor\source\repos\hospedagem de hotel\hospedagem de hotel\obj\Debug\net7.0\hospedagem de hotel.genruntimeconfig.cache
+C:\Users\ricor\source\repos\hospedagem de hotel\hospedagem de hotel\obj\Debug\net7.0\ref\hospedagem de hotel.dll
